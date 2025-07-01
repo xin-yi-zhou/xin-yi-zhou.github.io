@@ -26,8 +26,7 @@ Education
 - M.Phil., Operations Management, HKUST, Aug 2021-Aug 2023
 - B.Sc., Physics, Renmin University of China, Sept 2017-Jun 2021
 
-Working Papers
-======
+<h1 id="research">Working Papers</h1>
 - _Navigating Traceability: How Pricing and Responsibility Sharing Affect Product Quality and Supply Chain Welfare_, with Lijian LU and Ruxian WANG, under revision, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4101172)
   * __Honorable Mention__ in the Best Student Paper Competition, POMS-HK 2023
   * Accepted for presentation at POMS-HK 2023, POMS China 2022, INFORMS 2021
