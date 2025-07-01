@@ -22,9 +22,9 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
 
 Education
 ======
-- Ph.D., Operations Management, HKUST, 2023.08-present
-- M.Phil., Operations Management, HKUST, 2021.08-2023.08
-- B.Sc., Physics, Renmin University of China, 2017.09-2021.06
+- Ph.D., Operations Management, HKUST, Aug 2023-present
+- M.Phil., Operations Management, HKUST, Aug 2021-Aug 2023
+- B.Sc., Physics, Renmin University of China, Sept 2017-Jun 2021
 
 Working Papers
 ======
@@ -38,10 +38,10 @@ Working Papers
 
 Teaching
 ======
-- Instructor, 25 Summer
+- Instructor, Summer 2025
   * ISOM 2700 Operations Management
   * Undergraduate Course
-- Teaching Assistant, 22 Spring, 22 Fall, 23 Spring & 23 Fall
+- Teaching Assistant, Spring 2022, Fall 2022, Spring 2023 & Fall 2023
   * ISOM 5800 Business Modeling
   * Instructor: Hongtao ZHANG
   * MBA Course
@@ -50,4 +50,9 @@ Teaching
 
 Awards and Honors
 ======
-
+- HKUST RedBird PhD Scholarship, May 2023
+- Honorable Mention in the Best Student Paper Competition, POMS-HK, Jan 2023
+- Outstanding Graduates of Renmin University of China, Jun 2021
+- Excellent Graduate Thesis of Renmin University of China (≤5%), Jun 2021
+- First Prize of National University Student Computer Skills Application Competition (in C++ Group, 5%), Jul 2020
+- Outstanding Community Backbone Second-class Scholarship (0.2%), Dec 2019
