@@ -56,6 +56,17 @@ Education
 - M.Phil., Operations Management, HKUST, 2021.08-2023.08
 - B.Sc., Physics, Renmin University of China, 2017.09-2021.06
 
+Working Papers
+======
+- Navigating Traceability: How Pricing and Responsibility Sharing Affect Product Quality and Supply Chain Welfare, with Lijian LU and Ruxian WANG, under revision, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4101172)
+- Oligopolistic Competition in Online Marketplaces: Equilibrium Analysis and System Coordination, with Guillermo GALLEGO and Lijian LU, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422808)
+- Tax Relief or Public Belief: CSR-Induced Consumer Segmentation with Tax Incentives, with Lijian LU and Ruxian WANG
+
+Teaching
+======
+
+Awards and Honors
+======
 
 How to edit your site's GitHub repository
 ------
