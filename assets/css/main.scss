@@ -49,4 +49,13 @@
   border-radius: 50%;
 }
 
+/* ==== Custom override: Adjust sidebar width ==== */
+@media (min-width: 768px) {
+  .sidebar {
+    width: 520px !important; // 修改这里的宽度（默认是 275px）
+  }
 
+  .main {
+    margin-left: 520px !important; // 同步 main 内容的左边距
+  }
+}
