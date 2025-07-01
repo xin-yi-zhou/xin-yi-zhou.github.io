@@ -9,7 +9,7 @@
 
 main:
   - title: "Miscellaneous"
-    url: /portfolio/
+    url: /miscellaneous/
     
   - title: "CV"
     url: /cv/
