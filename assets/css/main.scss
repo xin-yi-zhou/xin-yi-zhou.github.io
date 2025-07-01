@@ -40,3 +40,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==== Custom override: Enlarge sidebar avatar ==== */
+.sidebar .author__avatar {
+  width: 150px !important;   // 或 180px、200px
+  height: 150px !important;
+  margin: 0 auto 10px;
+  border-radius: 50%;
+}
