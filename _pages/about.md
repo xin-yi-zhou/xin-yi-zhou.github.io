@@ -28,9 +28,13 @@ Education
 
 Working Papers
 ======
-- Navigating Traceability: How Pricing and Responsibility Sharing Affect Product Quality and Supply Chain Welfare, with Lijian LU and Ruxian WANG, under revision, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4101172)
-- Oligopolistic Competition in Online Marketplaces: Equilibrium Analysis and System Coordination, with Guillermo GALLEGO and Lijian LU, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422808)
+- Navigating Traceability: How Pricing and Responsibility Sharing Affect Product Quality and Supply Chain Welfare, with Lijian LU and Ruxian WANG, under revision, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4101172)
+  * Honorable Mention in the Best Student Paper Competition, POMS-HK 2023
+  * Accepted for presentation at POMS-HK 2023, POMS China 2022, INFORMS 2021
+- Oligopolistic Competition in Online Marketplaces: Equilibrium Analysis and System Coordination, with Guillermo GALLEGO and Lijian LU, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422808)
+  * Accepted for presentation at POMS-HK 2025, CSAMSE 2024, CSAMSE 2023, MSOM 2023, POMS-HK 2023
 - Tax Relief or Public Belief: CSR-Induced Consumer Segmentation with Tax Incentives, with Lijian LU and Ruxian WANG
+  * Accepted for presentation at INFORMS 2025, MSOM 2025 (poster), POMS-HK 2025, INFORMS 2024, CSAMSE 2024
 
 Teaching
 ======
