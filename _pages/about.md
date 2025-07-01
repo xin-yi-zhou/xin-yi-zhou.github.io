@@ -12,6 +12,36 @@ redirect_from:
   <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
 </blockquote>
 
+<p style="font-family: 'Brush Script MT', cursive; font-size: 1.5em;">
+  “A model is a lie that helps you see the truth.”<br>
+  <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
+</p>
+
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+<p style="font-family: 'Dancing Script', cursive; font-size: 1.5em;">
+  “A model is a lie that helps you see the truth.”<br>
+  <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
+</p>
+
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+<p style="font-family: 'Great Vibes', cursive; font-size: 1.7em;">
+  “A model is a lie that helps you see the truth.”<br>
+  <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
+</p>
+
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<p style="font-family: 'Pacifico', cursive; font-size: 1.4em;">
+  “A model is a lie that helps you see the truth.”<br>
+  <span style="font-size: 0.85em;">– Dr. Howard Skipper</span>
+</p>
+
+<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+<p style="font-family: 'Satisfy', cursive; font-size: 1.5em;">
+  “A model is a lie that helps you see the truth.”<br>
+  <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
+</p>
+
+
 About Me
 ======
 
