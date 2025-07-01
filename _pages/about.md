@@ -12,16 +12,14 @@ redirect_from:
   <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
 </blockquote>
 
-About Me
-======
+<h1 id="about">About Me</h1>
 
 Welcome to my website!
 
 My name is Xinyi ZHOU (pronounced Shin-yee Joe; you can also call me Josey). I am currently a Ph.D. candidate in Operations Management at [HKUST Business School](https://bm.hkust.edu.hk/), supervised by [Prof. Lijian LU](https://lijianlu.people.ust.hk/). I am also fortunate to collaborate with [Prof. Ruxian WANG](https://sites.google.com/view/ruxianwang) throughout my Ph.D. journey.
 Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of China](https://www.ruc.edu.cn/) in 2021, where I was advised by [Prof. Zhengxin LIU](http://www.phys.ruc.edu.cn/info/1182/1541.htm).
 
-Education
-======
+<h1 id="education">Education</h1>
 - Ph.D., Operations Management, HKUST, Aug 2023-present
 - M.Phil., Operations Management, HKUST, Aug 2021-Aug 2023
 - B.Sc., Physics, Renmin University of China, Sept 2017-Jun 2021
@@ -35,8 +33,7 @@ Education
 - _Tax Relief or Public Belief: CSR-Induced Consumer Segmentation with Tax Incentives_, with Lijian LU and Ruxian WANG
   * Accepted for presentation at INFORMS 2025, MSOM 2025 (poster), POMS-HK 2025, INFORMS 2024, CSAMSE 2024
 
-Teaching
-======
+<h1 id="teaching">Teaching</h1>
 - Instructor, Summer 2025
   * ISOM 2700 Operations Management
   * Undergraduate Course
@@ -46,12 +43,10 @@ Teaching
   * MBA Course
   * Class size: 48, 49, 52, & 20
 
-Services
-======
+<h1 id="services">Services</h1>
 - Ad-hoc Reviewer for _Manufacturing & Service Operations Management_
 
-Awards and Honors
-======
+<h1 id="awards">Awards and Honors</h1>
 - HKUST RedBird PhD Scholarship, May 2023
 - Honorable Mention in the Best Student Paper Competition, POMS-HK, Jan 2023
 - Outstanding Graduates of Renmin University of China, Jun 2021
