@@ -9,7 +9,8 @@ redirect_from:
 
 Welcome to my website!
 
-I am currently a Ph.D. candidate in Operations Management under the supervision of [Prof. Lijian LU](https://lijianlu.people.ust.hk/) at [HKUST Business School](https://bm.hkust.edu.hk/). I am fortunate to work with [Prof. Ruxian WANG](https://sites.google.com/view/ruxianwang) throughout my PhD journey. Before joining HKUST, I received the B.Sc. degree in Physics from [Renmin University of China](https://www.ruc.edu.cn/) in 2021, under the supervision of [Prof. Zhengxin LIU](http://www.phys.ruc.edu.cn/info/1182/1541.htm).
+My name is Xinyi ZHOU (pronounced Shin-yee Joe). I am currently a Ph.D. candidate in Operations Management at [HKUST Business School](https://bm.hkust.edu.hk/), supervised by [Prof. Lijian LU](https://lijianlu.people.ust.hk/). I am also fortunate to collaborate with [Prof. Ruxian WANG](https://sites.google.com/view/ruxianwang) throughout my Ph.D. journey.
+Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of China](https://www.ruc.edu.cn/) in 2021, where I was advised by [Prof. Zhengxin LIU](http://www.phys.ruc.edu.cn/info/1182/1541.htm).
 
 Education
 ======
