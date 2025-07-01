@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinyi ZHOU"
+title: null
 author_profile: true
 redirect_from: 
   - /about/
