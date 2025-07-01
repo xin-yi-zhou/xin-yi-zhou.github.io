@@ -43,8 +43,20 @@
 
 /* ==== Custom override: Enlarge sidebar avatar ==== */
 .sidebar .author__avatar {
-  width: 150px !important;   // 或 180px、200px
-  height: 150px !important;
-  margin: 0 auto 10px;
+  width: 320px !important;   // 或 180px、200px
+  height: 320px !important;
+  margin: 0 auto 10px;   // 上、水平居中、下
   border-radius: 50%;
 }
+
+/* ==== Custom override: Adjust sidebar width ==== */
+@media (min-width: 768px) {
+  .sidebar {
+    width: 480px !important; // 修改这里的宽度（默认是 275px）
+  }
+
+  .main {
+    margin-left: 480px !important; // 同步 main 内容的左边距
+  }
+}
+
