@@ -1,3 +1,8 @@
+<blockquote style="font-family: cursive; font-size: 1.2em; margin-top: 1em;">
+  “A model is a lie that helps you see the truth.”<br>
+  <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
+</blockquote>
+
 ---
 permalink: /
 title: "About Me"
