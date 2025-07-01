@@ -47,6 +47,9 @@ Teaching
   * MBA Course
   * Class size: 48, 49, 52, & 20
 
+Services
+======
+- Ad-hoc Reviewer for _Manufacturing & Service Operations Management_
 
 Awards and Honors
 ======
