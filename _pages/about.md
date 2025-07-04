@@ -20,8 +20,8 @@ My name is Xinyi ZHOU (pronounced Shin-yee Joe; you can also call me Josey). I a
 Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of China](https://www.ruc.edu.cn/) in 2021, where I was advised by [Prof. Zhengxin LIU](http://www.phys.ruc.edu.cn/info/1182/1541.htm).
 
 <h1 id="education">Education</h1>
-- Ph.D., Operations Management, HKUST, Aug 2023-present
-- M.Phil., Operations Management, HKUST, Aug 2021-Aug 2023
+- Ph.D., Operations Management, The Hong Kong University of Science and Technology, Aug 2023-present
+- M.Phil., Operations Management, The Hong Kong University of Science and Technology, Aug 2021-Aug 2023
 - B.Sc., Physics, Renmin University of China, Sept 2017-Jun 2021
 
 <h1 id="research">Working Papers</h1>
