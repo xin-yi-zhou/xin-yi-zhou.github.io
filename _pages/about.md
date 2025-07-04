@@ -50,6 +50,7 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
 - HKUST RedBird PhD Scholarship, May 2023
 - Honorable Mention in the Best Student Paper Competition, POMS-HK, Jan 2023
 - HKUST Postgraduate Studentship, Sept 2021-Aug 2026
+- Research Postgraduate Top-Up Award, Sept 2023-Aug 2026
 - Outstanding Graduates of Renmin University of China, Jun 2021
 - Excellent Graduate Thesis of Renmin University of China (≤5%), Jun 2021
 - First Prize of National University Student Computer Skills Application Competition (in C++ Group, 5%), Jul 2020
