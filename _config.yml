@@ -13,9 +13,9 @@ title                    : "Xinyi ZHOU (周昕怡)"
 title_separator          : "-"
 name                     : &name "Xinyi ZHOU"
 description              : &description "personal description"
-url                      : https://xinyizhou27.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://xin-yi-zhou.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xinyizhou27/xinyizhou27.github.io"
+repository               : "xin-yi-zhou/xin-yi-zhou.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
