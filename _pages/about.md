@@ -17,7 +17,7 @@ redirect_from:
 Welcome to my website!
 
 My name is Xinyi ZHOU (pronounced Shin-yee Joe; you can also call me Josey). I am currently a Ph.D. candidate in Operations Management at [HKUST Business School](https://bm.hkust.edu.hk/), supervised by [Prof. Lijian LU](https://lijianlu.people.ust.hk/). I am also fortunate to collaborate with [Prof. Ruxian WANG](https://sites.google.com/view/ruxianwang) throughout my Ph.D. journey.
-Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of China](https://www.ruc.edu.cn/) in 2021, where I was advised by [Prof. Zhengxin LIU](http://www.phys.ruc.edu.cn/info/1182/1541.htm).
+Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of China](https://www.ruc.edu.cn/), where I was advised by [Prof. Zhengxin LIU](http://www.phys.ruc.edu.cn/info/1182/1541.htm).
 
 <h1 id="education">Education</h1>
 - Ph.D., Operations Management, The Hong Kong University of Science and Technology, Aug 2023-present
@@ -53,5 +53,3 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
 - Research Postgraduate Top-Up Award, Sept 2023-Aug 2026
 - Outstanding Graduates of Renmin University of China, Jun 2021
 - Excellent Graduate Thesis of Renmin University of China (≤5%), Jun 2021
-- First Prize of National University Student Computer Skills Application Competition (in C++ Group, 5%), Jul 2020
-- Outstanding Community Backbone Second-class Scholarship (0.2%), Dec 2019
