@@ -14,7 +14,7 @@ redirect_from:
 
 <h1 id="about">About Me</h1>
 
-Welcome to my website!
+Welcome to my site!
 
 My name is Xinyi ZHOU (pronounced Shin-yee Joe; you can also call me Josey). I am currently a Ph.D. candidate in Operations Management at [HKUST Business School](https://bm.hkust.edu.hk/), supervised by [Prof. Lijian LU](https://lijianlu.people.ust.hk/). I am also fortunate to collaborate with [Prof. Ruxian WANG](https://sites.google.com/view/ruxianwang) throughout my Ph.D. journey.
 Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of China](https://www.ruc.edu.cn/), where I was advised by [Prof. Zhengxin LIU](http://www.phys.ruc.edu.cn/info/1182/1541.htm).
