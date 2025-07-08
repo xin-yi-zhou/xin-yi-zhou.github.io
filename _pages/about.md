@@ -60,6 +60,6 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
 - Outstanding Graduates of Renmin University of China, Jun 2021
 - Excellent Graduate Thesis of Renmin University of China (≤5%), Jun 2021
 - Third Prize, China High School Physics Olympiad (CPhO), Guangdong Provincial Round, Oct 2016
-- Third Prize, China High School Mathematical Competition, Guangdong Provincial Round, Sept 2016
+- Third Prize, China High School Mathematical Olympiad (CMO), Guangdong Provincial Round, Sept 2016
 - Second Prize, [China High School Biology Olympiad (CHSBO)](http://www.botany.org.cn/swxjs/swxls/201609/t20160908_584947.html), Guangdong Provincial Round, May 2016
 
