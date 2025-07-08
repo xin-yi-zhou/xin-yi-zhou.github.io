@@ -7,50 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<blockquote style="font-family: cursive; font-size: 1.2em; margin-top: 1em;">
-  “A model is a lie that helps you see the truth.”<br>
-  <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
-</blockquote>
-
 <blockquote style="
   font-family: 'Georgia', serif;
-  font-size: 1.5em;
+  font-size: 1.2em;
   color: #D8A7B1;  /* 莫兰迪粉色 */
   margin-top: 1em;
 ">
   “A model is a lie that helps you see the truth.”<br>
   <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
 </blockquote>
-
-<blockquote style="
-  font-family: 'Arial', sans-serif;
-  font-size: 1.5em;
-  color: #C4A69F;  /* 莫兰迪粉色 */
-  margin-top: 1em;
-">
-  “A model is a lie that helps you see the truth.”<br>
-  <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
-</blockquote>
-
-<blockquote style="
-  font-family: 'Arial', sans-serif;
-  font-size: 1.5em;
-  color: #DBB1A2;  /* 莫兰迪粉色 */
-  margin-top: 1em;
-">
-  “A model is a lie that helps you see the truth.”<br>
-  <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
-</blockquote>
-
-<blockquote style="
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 1.5em;
-  color: #D8A7B1; /* 莫兰迪粉色 */
-  margin-top: 1em;">
-  “A model is a lie that helps you see the truth.”<br>
-  <span style="font-size: 0.9em; color: #B28D96;">– Dr. Howard Skipper</span>
-</blockquote>
-
 
 <h1 id="about">About Me</h1>
 
