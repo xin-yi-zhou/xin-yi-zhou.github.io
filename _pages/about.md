@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<blockquote style="font-family: cursive; font-size: 1.2em; margin-top: 1em;">
+<!-- 在<head>或<body顶部添加Google Fonts链接 -->
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+
+<blockquote style="font-family: 'Dancing Script', cursive; font-size: 1.2em; margin-top: 1em;">
   “A model is a lie that helps you see the truth.”<br>
   <span style="font-size: 0.9em;">– Dr. Howard Skipper</span>
 </blockquote>
