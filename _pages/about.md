@@ -11,7 +11,7 @@ redirect_from:
   font-family: 'Georgia', serif;
   font-size: 1.2em;
   /*color: #D8A7B1;   莫兰迪粉色 */
-  color: var(--global-quote-color);
+  /*color: var(--global-quote-color);*/
   margin-top: 1em;
 ">
   “A model is a lie that helps you see the truth.”<br>
