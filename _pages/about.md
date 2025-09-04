@@ -46,7 +46,7 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
   * Teaching evaluation: 4.0/5.0
 - Teaching Assistant, Spring 2022, Fall 2022, Spring 2023 & Fall 2023
   * ISOM 5800 Business Modeling, 1 credit
-  * Instructor: Hongtao ZHANG
+  * Instructor: Prof. Hongtao ZHANG
   * MBA Course
   * Class size: 48, 49, 52, & 20
 
