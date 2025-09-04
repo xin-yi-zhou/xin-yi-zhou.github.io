@@ -44,6 +44,7 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
   * ISOM 2700 Operations Management, 3 credits
   * Undergraduate Course
   * Teaching evaluation: 4.0/5.0
+  * Class size: 37
 - Teaching Assistant, Spring 2022, Fall 2022, Spring 2023 & Fall 2023
   * ISOM 5800 Business Modeling, 1 credit
   * Instructor: Prof. Hongtao ZHANG
