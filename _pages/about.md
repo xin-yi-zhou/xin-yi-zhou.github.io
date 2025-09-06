@@ -52,7 +52,7 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
   * Class size: 48, 49, 52, & 20
 
 <h1 id="services">Services</h1>
-- Reviewer for _Manufacturing & Service Operations Management_
+- Ad Hoc Reviewer for _Manufacturing & Service Operations Management_
 
 <h1 id="awards">Awards and Honors</h1>
 - HKUST RedBird PhD Scholarship, May 2023
