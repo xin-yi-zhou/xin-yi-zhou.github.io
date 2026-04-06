@@ -35,7 +35,7 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
   * [__Honorable Mention__ in the Best Student Paper Competition, POMS-HK 2023](https://isom.hkust.edu.hk/news/om-phd-student-xinyi-zhou-wins-honorable-mention-2023-poms-hk-best-student-paper-competition)
   * Accepted for presentation at POMS-HK 2023, POMS China 2022, INFORMS 2021
 
-<h1>Working Papers</h1>
+<h1 id="working papers">Working Papers</h1>
 - _Oligopolistic Competition in Online Marketplaces: Equilibrium Analysis and System Coordination_, with Guillermo GALLEGO and Lijian LU, working paper, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422808)
   * Accepted for presentation at POMS-HK 2025, CSAMSE 2024, CSAMSE 2023, MSOM 2023, POMS-HK 2023
 - _Tax Relief or Public Belief: CSR-Induced Consumer Segmentation with Tax Incentives_, with Lijian LU and Ruxian WANG
