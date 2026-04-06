@@ -30,15 +30,18 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
 - M.Phil., Operations Management, The Hong Kong University of Science and Technology, Aug 2021-Aug 2023
 - B.Sc., Physics, Renmin University of China, Sept 2017-Jun 2021
 
-<h1 id="research">Working Papers</h1>
-- _Navigating Traceability: How Pricing and Responsibility Sharing Impact Quality and Welfare_, with Lijian LU and Ruxian WANG, under minor revision at POM, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4101172)
-  * __Honorable Mention__ in the Best Student Paper Competition, POMS-HK 2023
+<h1 id="research">Journal Publication</h1>
+- _Navigating Traceability: How Pricing and Responsibility Sharing Impact Quality and Welfare_, with Lijian LU and Ruxian WANG, forthcoming in __Production and Operations Management__, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4101172)
+  * [__Honorable Mention__ in the Best Student Paper Competition, POMS-HK 2023](https://isom.hkust.edu.hk/news/om-phd-student-xinyi-zhou-wins-honorable-mention-2023-poms-hk-best-student-paper-competition)
   * Accepted for presentation at POMS-HK 2023, POMS China 2022, INFORMS 2021
+
+<h1>Working Papers</h1>
 - _Oligopolistic Competition in Online Marketplaces: Equilibrium Analysis and System Coordination_, with Guillermo GALLEGO and Lijian LU, working paper, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4422808)
   * Accepted for presentation at POMS-HK 2025, CSAMSE 2024, CSAMSE 2023, MSOM 2023, POMS-HK 2023
 - _Tax Relief or Public Belief: CSR-Induced Consumer Segmentation with Tax Incentives_, with Lijian LU and Ruxian WANG
   * Accepted for presentation at INFORMS 2025, MSOM 2025 (poster), POMS-HK 2025, INFORMS 2024, CSAMSE 2024
 - _Improving Product Quality in Presence of Spillover Effects: Adopting Traceability or Inspection_, with Lijian LU and Ruxian WANG
+- _Penalty Allocation under Traceability Adoption_, with Lijian LU and Ruxian WANG
 
 <h1 id="teaching">Teaching</h1>
 - Instructor, Summer 2025
