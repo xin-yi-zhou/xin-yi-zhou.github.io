@@ -31,7 +31,7 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
 - B.Sc., Physics, Renmin University of China, Sept 2017-Jun 2021
 
 <h1 id="research">Journal Publication</h1>
-- _Navigating Traceability: How Pricing and Responsibility Sharing Impact Quality and Welfare_, with Lijian LU and Ruxian WANG, forthcoming in __Production and Operations Management__, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4101172)
+- _Navigating Traceability: How Pricing and Responsibility Sharing Impact Quality and Welfare_, with Lijian LU and Ruxian WANG, forthcoming in __Production and Operations Management__, [[POM]](https://doi.org/10.1177/10591478261443754), [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4101172)
   * [__Honorable Mention__ in the Best Student Paper Competition, POMS-HK 2023](https://isom.hkust.edu.hk/news/om-phd-student-xinyi-zhou-wins-honorable-mention-2023-poms-hk-best-student-paper-competition)
   * Accepted for presentation at POMS-HK 2023, POMS China 2022, INFORMS 2021
 
