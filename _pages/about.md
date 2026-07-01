@@ -57,6 +57,7 @@ Before joining HKUST, I received my B.Sc. in Physics from [Renmin University of 
 
 <h1 id="services">Services</h1>
 - Ad Hoc Reviewer for _Manufacturing & Service Operations Management_
+- Judge for the 2026 CSAMSE Best Paper Competition
 
 <h1 id="awards">Awards and Honors</h1>
 - HKUST RedBird PhD Scholarship, May 2023
